@@ -7,6 +7,9 @@ Lập trình nhúng Arduino
 
 ![z7032557437812_d920bd77d40d2b16764296c975ccfa75](https://github.com/user-attachments/assets/c7ac66a4-0c14-441a-b3c1-d3345036aba7)
 
+### Video
+
+https://github.com/user-attachments/assets/5d18b4de-95e6-4b4c-bdcf-3f46f5975026
 
 ## SMART TRASH
 
