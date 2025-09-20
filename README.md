@@ -5,7 +5,7 @@ Lập trình nhúng Arduino
 
 ## BOTTOM ---> LED 7
 
-![z7032557437812_d920bd77d40d2b16764296c975ccfa75](https://github.com/user-attachments/assets/c7ac66a4-0c14-441a-b3c1-d3345036aba7)
+<img src="https://github.com/user-attachments/assets/ea27b425-8282-4be1-b832-c3524373be97" width="50%" alt="Ảnh minh họa 1">
 
 ### Video
 
@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/5d18b4de-95e6-4b4c-bdcf-3f46f5975026
 
 ## SMART TRASH
 
-![z7032556294539_f2b142eecbfbb06907b203299fc4d013](https://github.com/user-attachments/assets/22e5b1a7-0646-4840-b625-399360653cd0)
+<img src="https://github.com/user-attachments/assets/b325c8bc-fff8-4af2-8a00-428db266efb2" width="50%" alt="Ảnh minh họa 2">
 
 ### Video
 
