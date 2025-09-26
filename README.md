@@ -18,3 +18,11 @@ https://github.com/user-attachments/assets/5d18b4de-95e6-4b4c-bdcf-3f46f5975026
 ### Video
 
 https://github.com/user-attachments/assets/9dec7d63-ad60-4bbb-93f9-05a425969eb6
+
+## Control 4 leds
+
+<img width="1287/2" height="731/2" alt="Image" src="https://github.com/user-attachments/assets/78d3a6a2-ffbf-41fd-bea7-e690611c5b9d" />
+
+### Video
+
+https://github.com/user-attachments/assets/5aa98dd7-b44c-432d-9d92-eea773a6a33e
